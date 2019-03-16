@@ -1,0 +1,11 @@
+{
+  "name": "hellobigchaindb",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:pygabo/hellobigchaindb.git",
+  "author": "jose guzman <pygabo@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bigchaindb-driver": "^4.1.0"
+  }
+}
